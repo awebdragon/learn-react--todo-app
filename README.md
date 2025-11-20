@@ -1,6 +1,7 @@
 # Learn React: To-Do App
 Makin' a to-do app to keep learning React
 
+Inspiration: https://habitica.com/ 
 
 ## Feature List
 Some dev notes for myself to track while I build
